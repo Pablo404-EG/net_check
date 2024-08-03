@@ -54,9 +54,6 @@ git pull origin main
 3. قم بتحديث المتطلبات إذا لزم الأمر:
 pip install -r requirements.txt --upgrade
 
-## الترخيص
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## الدعم
 
